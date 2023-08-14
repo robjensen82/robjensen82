@@ -2,4 +2,4 @@
 
 👀 I’m interested in machine learning, web programming  
 
-🌱 I’m currently working with nestjs, reactjs, laravel, postgres   
+🌱 I’m currently working with nodejs, typescript, react
